@@ -1,7 +1,7 @@
 <p class="credit small">&copy; 2024
 <a
-    href="https://www.espocrm.com"
-    title="Powered by EspoCRM"
+    href="https://www.suitecrm.com.ar"
+    title="Powered by Juani"
     rel="noopener" target="_blank"
     tabindex="-1"
 >EspoCRM</a></p>
