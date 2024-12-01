@@ -4,4 +4,4 @@
     title="Powered by Juani"
     rel="noopener" target="_blank"
     tabindex="-1"
->EspoCRM</a></p>
+>SuiteCRM</a></p>
